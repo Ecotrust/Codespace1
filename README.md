@@ -4,6 +4,7 @@ Experimenting with Github Codespaces to determine usefullness for:
   * Sharing code among team members
   * 
 
+### [Quickstart Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
 
 **Considerations for team after experimenting**:
   * Is a Github Codespace powered by 100% renewables?
